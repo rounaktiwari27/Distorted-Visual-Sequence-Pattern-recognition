@@ -1,4 +1,4 @@
-# Distorted Visual Sequence Pattern Recognition
+# Distorted Visual Sequence Pattern recognition
 
 A custom Deep Learning pipeline for recognizing 6-character alphanumeric sequences from heavily distorted grayscale images. The project tackles a challenging OCR problem involving severe occlusions, background noise, blur artifacts, overlapping characters, and irregular spacing.
 
